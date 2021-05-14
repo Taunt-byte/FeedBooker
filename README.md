@@ -1,9 +1,17 @@
-# FeedBooker
+<h1>FeedBooker<h1>
 
-A Plataforma a ser desenvolvida é o Feedbooker.
-Irá funcionar como uma plataforma de Feedback mútuo entre alunos e professores, disponibilizando um ambiente neutro em que tanto alunos e professores poderão expressar seus pontos de vista sobre o Ensino à Distância e como essa nova realidade pode ser mais acessível a alunos e professores de diferentes perfis acadêmico
+Status: Development
 
-# tecnologias
+## project's goal
+
+The feedbooker will act as a mutual Feedback platform between students and teachers, providing a neutral environment in which both students and teachers will be able to express their views on Distance Learning and how this new reality can be made more accessible to students and teachers. different academic profiles
+
+## Systems that will be in this project
+
++ login system
++ comment system
+
+## technology used
 
 SQL
 HTML 5
