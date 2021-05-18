@@ -13,9 +13,20 @@ The feedbooker will act as a mutual Feedback platform between students and teach
 
 ## Technology used
 
-SQL
-HTML 5
-CSS
-Python
-JavaScript
-PHP
+<table>
+    <tr>
+    <td>HTML</td>
+    <td>CSS</td>
+    <td>BootStrap</td>
+    <td>JavaScript</td>
+    <td>SQL</td>
+    <td>PHP</td>
+    </tr>
+    <tr>
+    <td>5.*</td>
+    <td>3.*</td>
+    <td>5.0.0</td>
+    <td>10.0</td>
+    <td>8.0.3</td>
+    </tr>
+</table>
